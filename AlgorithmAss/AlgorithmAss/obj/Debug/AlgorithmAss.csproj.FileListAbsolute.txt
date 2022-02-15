@@ -1,0 +1,8 @@
+C:\Users\user\Fellowship\AlgorithmAssgn\AlgorithmAss\AlgorithmAss\bin\Debug\AlgorithmAss.exe.config
+C:\Users\user\Fellowship\AlgorithmAssgn\AlgorithmAss\AlgorithmAss\bin\Debug\AlgorithmAss.exe
+C:\Users\user\Fellowship\AlgorithmAssgn\AlgorithmAss\AlgorithmAss\bin\Debug\AlgorithmAss.pdb
+C:\Users\user\Fellowship\AlgorithmAssgn\AlgorithmAss\AlgorithmAss\obj\Debug\AlgorithmAss.csproj.AssemblyReference.cache
+C:\Users\user\Fellowship\AlgorithmAssgn\AlgorithmAss\AlgorithmAss\obj\Debug\AlgorithmAss.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Fellowship\AlgorithmAssgn\AlgorithmAss\AlgorithmAss\obj\Debug\AlgorithmAss.csproj.CoreCompileInputs.cache
+C:\Users\user\Fellowship\AlgorithmAssgn\AlgorithmAss\AlgorithmAss\obj\Debug\AlgorithmAss.exe
+C:\Users\user\Fellowship\AlgorithmAssgn\AlgorithmAss\AlgorithmAss\obj\Debug\AlgorithmAss.pdb
